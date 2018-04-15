@@ -30,7 +30,7 @@ public class Main {
             }
         }
 
-        // if text can not be made from the whole string, return an empty string
+        // if text can not be made from the whole inputString, return an empty string
         if (step[inputString.length()] == -1)
             return "";
 
